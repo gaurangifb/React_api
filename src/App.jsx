@@ -5,8 +5,7 @@ const App = () => {
   const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '7526a2abc4mshcaf8928adaea272p10cdfajsna4c956f56250',
-      'X-RapidAPI-Host': 'animes5.p.rapidapi.com'
+     
     }
   };
 
